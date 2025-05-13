@@ -9,6 +9,16 @@
 
 **3D Files:** [Onshape project link](https://cad.onshape.com/documents/a49b0da92358af82e52b2462/w/a694426a2e309911855f3e7b/e/cfa827aa1b3785606bd24166)
 
+**Screen used as replacement:** [Aliexpress - 13PIN welding1.14 Nieuwe IPS 1.14 inch LCD 1.14 inch TFT LCD IPS display LCD kleuren LCD HD display module](https://nl.aliexpress.com/item/1005005586962823.html)
+
+**Esp32 Board:** [Tinytronics -LilyGO TTGO T-Display V1.1 ESP32 - with 1.14 inch TFT Display](https://www.tinytronics.nl/en/development-boards/microcontroller-boards/with-wi-fi/lilygo-ttgo-t-display-v1.1-esp32-with-1.14-inch-tft-display)
+
+**L2S DAC:** [Aliexpress - CJMCU-1334 UDA1334A I2S Dac Audio Stereo Decoder Module Board Voor Arduino 3.3V - 5V](https://nl.aliexpress.com/item/1005001993192815.html)
+
+**Potentiometer:** Panel Mount 100K Potentiometer (generic unbranded)
+
+**Buttons:** 2x Generic breadboard buttons
+
 ### Install packages
 
 This program is meant to be used with the TTGO-T-Display V1.1
